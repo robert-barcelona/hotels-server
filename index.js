@@ -1,16 +1,19 @@
 const express = require('express')
 const logic = require('./logic')
 const app = express()
+const cors = require('cors')
+
+app.use(cors())
 app.use(express.json())
 
 const port = 4000
 
 
-app.get('/availability', async (req, res) => {
+app.post('/availability', async (req, res) => {
   const {body: {adults, children, start, finish},query:{promo_code}} = req
   let discount = 0
   const regex = /THN[0-9][0-9]/
-  if (!(adults && children && start && finish)) res.status(400).send('Missing parameters in GET call')
+  if (!(adults && children && start && finish)) return res.status(400).send('Missing parameters in GET call')
   if (promo_code && promo_code.match(regex)) {
     discount = parseInt(promo_code.slice(3), 10)
   }

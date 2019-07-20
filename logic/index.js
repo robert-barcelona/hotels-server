@@ -3,13 +3,13 @@ const data = require('../data/data')
 module.exports = {
 
   searchAvailability: async (adults, children, start, end, discount) => {
-    if (!(adults && children && start && end)) throw new Error('Not all values were sent to check availability ')
+    console.log(adults,children,start,end,discount)
+
     if (Number.isNaN(adults)) throw new Error('Number of adults is a bad value')
     if (Number.isNaN(children)) throw new Error('Number of children is a bad value')
 
     let startTime, endTime
     const people = adults + children
-    console.log(adults, children, start, end)
     try {
       startTime = Date.parse(start)
       endTime = Date.parse(end)
