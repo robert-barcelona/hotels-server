@@ -3,7 +3,6 @@ const data = require('../data/data')
 module.exports = {
 
   searchAvailability: async (adults, children, start, end, discount) => {
-    console.log(adults,children,start,end,discount)
 
     if (Number.isNaN(adults)) throw new Error('Number of adults is a bad value')
     if (Number.isNaN(children)) throw new Error('Number of children is a bad value')
@@ -24,7 +23,6 @@ module.exports = {
       return (room.people >= people && !overlap)
     }).map(room => {
       if (discount) {
-        console.log(`discount is ${discount}`)
         room.discountedCost = (room.cost * (1 - discount/100)).toFixed(2);
         room.discount = discount
       }

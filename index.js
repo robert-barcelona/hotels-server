@@ -14,7 +14,6 @@ app.post('/availability', async (req, res) => {
   let discount = 0
   const regex = /THN[0-9][0-9]/
   if (!(adults && children && start && finish)) return res.status(400).send('Missing parameters in GET call')
-  if (promo_code) console.log(` Promo code ${promo_code}, match ${promo_code.match(regex)} `)
   if (promo_code && promo_code.match(regex)) {
     discount = parseInt(promo_code.slice(3), 10)
   }
