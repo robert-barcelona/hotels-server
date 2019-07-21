@@ -7,9 +7,11 @@
     "beds": 4,
     "people": 5,
     "cost": 206,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-05-23",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72359e65249300e72d9",
@@ -19,9 +21,11 @@
     "beds": 2,
     "people": 3,
     "cost": 270,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-12",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7239ce5eb0c54d4c764",
@@ -31,9 +35,11 @@
     "beds": 2,
     "people": 3,
     "cost": 158,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-19",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723d6d7402df89ea7ac",
@@ -43,9 +49,11 @@
     "beds": 1,
     "people": 2,
     "cost": 188,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-07-27",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723e6c4088303043c02",
@@ -55,9 +63,11 @@
     "beds": 2,
     "people": 3,
     "cost": 320,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-12-04",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72343c4002f87f1a3c7",
@@ -67,9 +77,11 @@
     "beds": 2,
     "people": 3,
     "cost": 218,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-01-15",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723141cd31251f59a80",
@@ -79,9 +91,11 @@
     "beds": 3,
     "people": 4,
     "cost": 188,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-10-02",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723fcd5de15d3d55ed1",
@@ -91,9 +105,11 @@
     "beds": 2,
     "people": 3,
     "cost": 304,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-08-13",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723a218539be313512b",
@@ -103,9 +119,11 @@
     "beds": 4,
     "people": 5,
     "cost": 174,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-10-08",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723361279e4f5ff89b4",
@@ -115,9 +133,11 @@
     "beds": 1,
     "people": 2,
     "cost": 210,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-12-05",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7230bc3b9afb2d82eb3",
@@ -127,9 +147,11 @@
     "beds": 1,
     "people": 2,
     "cost": 338,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2019-12-12",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723f191a23063a0d521",
@@ -139,9 +161,11 @@
     "beds": 3,
     "people": 4,
     "cost": 154,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-06-01",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7237555aafc65d1a928",
@@ -151,9 +175,11 @@
     "beds": 3,
     "people": 4,
     "cost": 162,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2019-12-03",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723599832c71a9dae3e",
@@ -163,9 +189,11 @@
     "beds": 3,
     "people": 4,
     "cost": 322,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2019-10-12",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72371e7858816c94ff9",
@@ -175,9 +203,11 @@
     "beds": 4,
     "people": 5,
     "cost": 178,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2019-11-10",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723230884958bc315aa",
@@ -187,9 +217,11 @@
     "beds": 4,
     "people": 5,
     "cost": 316,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-09-28",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723220d91c3fa47bb21",
@@ -199,9 +231,11 @@
     "beds": 3,
     "people": 4,
     "cost": 330,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-10-28",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723de9751931bce24ec",
@@ -211,9 +245,11 @@
     "beds": 4,
     "people": 5,
     "cost": 298,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-10-04",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723de4e725ea1cf8535",
@@ -223,9 +259,11 @@
     "beds": 3,
     "people": 4,
     "cost": 204,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-10-17",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723b6aa37d4d27dbe3b",
@@ -235,9 +273,11 @@
     "beds": 3,
     "people": 4,
     "cost": 284,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-06-12",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7233509fc1d5df5aefa",
@@ -247,9 +287,11 @@
     "beds": 3,
     "people": 4,
     "cost": 200,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-05-26",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72387ae0c673b3b2cbf",
@@ -259,9 +301,11 @@
     "beds": 4,
     "people": 5,
     "cost": 182,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-03-15",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723028e24a1b3ff3882",
@@ -271,9 +315,11 @@
     "beds": 3,
     "people": 4,
     "cost": 168,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2019-12-17",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723064c5d1d3fe9bc3a",
@@ -283,9 +329,11 @@
     "beds": 1,
     "people": 2,
     "cost": 174,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-06-11",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723f27e1fd002af8057",
@@ -295,9 +343,11 @@
     "beds": 4,
     "people": 5,
     "cost": 322,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-12-08",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7234b30b3bfcf622f11",
@@ -307,9 +357,11 @@
     "beds": 2,
     "people": 3,
     "cost": 298,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-07-19",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72350473f0a32aecfc9",
@@ -319,9 +371,11 @@
     "beds": 2,
     "people": 3,
     "cost": 216,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-06-11",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723abd291d1b0b06d4b",
@@ -331,9 +385,11 @@
     "beds": 2,
     "people": 3,
     "cost": 140,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-05-28",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723b7dfa26532aa4b92",
@@ -343,9 +399,11 @@
     "beds": 2,
     "people": 3,
     "cost": 276,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-25",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72342997776703ac305",
@@ -355,9 +413,11 @@
     "beds": 1,
     "people": 2,
     "cost": 264,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-09-26",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723aaf2b6a016efac89",
@@ -367,9 +427,11 @@
     "beds": 1,
     "people": 2,
     "cost": 162,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-08",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723263e78c8226c3246",
@@ -379,9 +441,11 @@
     "beds": 4,
     "people": 5,
     "cost": 164,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-04-27",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72355bd7e6272293539",
@@ -391,9 +455,11 @@
     "beds": 4,
     "people": 5,
     "cost": 240,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-04-08",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72336234f3de3299d01",
@@ -403,9 +469,11 @@
     "beds": 3,
     "people": 4,
     "cost": 310,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2021-01-27",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723bb2420ff34e321f8",
@@ -415,9 +483,11 @@
     "beds": 1,
     "people": 2,
     "cost": 152,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-11-16",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7230dbb219bb975e027",
@@ -427,9 +497,11 @@
     "beds": 2,
     "people": 3,
     "cost": 158,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-07-09",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72389168b4b4116eb32",
@@ -439,9 +511,11 @@
     "beds": 4,
     "people": 5,
     "cost": 330,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-01-21",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723530bc151a3bccead",
@@ -451,9 +525,11 @@
     "beds": 4,
     "people": 5,
     "cost": 330,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-07-17",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7236bac304ff9da7b0c",
@@ -463,9 +539,11 @@
     "beds": 4,
     "people": 5,
     "cost": 292,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-11-28",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72392059614ee3f0247",
@@ -475,9 +553,11 @@
     "beds": 4,
     "people": 5,
     "cost": 306,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-08-24",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723738b782648d073a8",
@@ -487,9 +567,11 @@
     "beds": 1,
     "people": 2,
     "cost": 264,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2019-10-15",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723aa1ec2f6d10054bc",
@@ -499,9 +581,11 @@
     "beds": 4,
     "people": 5,
     "cost": 314,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-09-05",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7233bfc92e42cf7bfd9",
@@ -511,9 +595,11 @@
     "beds": 2,
     "people": 3,
     "cost": 348,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-10-12",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72339819718f70b81e3",
@@ -523,9 +609,11 @@
     "beds": 4,
     "people": 5,
     "cost": 336,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-01-13",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7238f7bbb6032a9d503",
@@ -535,9 +623,11 @@
     "beds": 4,
     "people": 5,
     "cost": 318,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-12-18",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7233995311bfbd91e05",
@@ -547,9 +637,11 @@
     "beds": 2,
     "people": 3,
     "cost": 264,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-03-12",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7231763308aa3f11040",
@@ -559,9 +651,11 @@
     "beds": 3,
     "people": 4,
     "cost": 166,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-04-29",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723109451f675576a3a",
@@ -571,9 +665,11 @@
     "beds": 4,
     "people": 5,
     "cost": 308,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-12-31",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7239ce1d8ac46dccefb",
@@ -583,9 +679,11 @@
     "beds": 1,
     "people": 2,
     "cost": 304,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-11-06",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723c2f4222bcd4682cf",
@@ -595,9 +693,11 @@
     "beds": 1,
     "people": 2,
     "cost": 254,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-08-23",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723d18e54b1d766b13c",
@@ -607,9 +707,11 @@
     "beds": 3,
     "people": 4,
     "cost": 212,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-02-22",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723132cfc0392765079",
@@ -619,9 +721,11 @@
     "beds": 1,
     "people": 2,
     "cost": 208,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-11-19",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723098f1377e8a19d63",
@@ -631,9 +735,11 @@
     "beds": 4,
     "people": 5,
     "cost": 318,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-19",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7236e041c33ba1c590f",
@@ -643,9 +749,11 @@
     "beds": 4,
     "people": 5,
     "cost": 180,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-08-16",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72315fbb5653e513184",
@@ -655,9 +763,11 @@
     "beds": 3,
     "people": 4,
     "cost": 268,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-11-18",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723ba5910a661dc5b02",
@@ -667,9 +777,11 @@
     "beds": 1,
     "people": 2,
     "cost": 184,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-03-30",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723cb95fb742b3e4ab0",
@@ -679,9 +791,11 @@
     "beds": 4,
     "people": 5,
     "cost": 346,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-05-25",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723dd7dbc549939056c",
@@ -691,9 +805,11 @@
     "beds": 3,
     "people": 4,
     "cost": 254,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-12-07",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7237fb59f7f157e25d5",
@@ -703,9 +819,11 @@
     "beds": 2,
     "people": 3,
     "cost": 236,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-09-07",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7237c2f00bcb7b3f57e",
@@ -715,9 +833,11 @@
     "beds": 1,
     "people": 2,
     "cost": 336,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-03-10",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723c8160892e21797a3",
@@ -727,9 +847,11 @@
     "beds": 4,
     "people": 5,
     "cost": 194,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-05-06",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7231000911904171444",
@@ -739,9 +861,11 @@
     "beds": 1,
     "people": 2,
     "cost": 254,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-12-31",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723473c06707f8bc600",
@@ -751,9 +875,11 @@
     "beds": 2,
     "people": 3,
     "cost": 292,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-12-30",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72375e43320b0a980d2",
@@ -763,9 +889,11 @@
     "beds": 3,
     "people": 4,
     "cost": 240,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-07-15",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72322cd7cb38f97ed61",
@@ -775,9 +903,11 @@
     "beds": 2,
     "people": 3,
     "cost": 262,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2021-01-23",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7236e3c71d8ded72d64",
@@ -787,9 +917,11 @@
     "beds": 2,
     "people": 3,
     "cost": 292,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-04-12",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7239b9c50b6c532879b",
@@ -799,9 +931,11 @@
     "beds": 2,
     "people": 3,
     "cost": 234,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-10-06",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723d05e43c8adf84128",
@@ -811,9 +945,11 @@
     "beds": 2,
     "people": 3,
     "cost": 318,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-08-04",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7237a5709774464068f",
@@ -823,9 +959,11 @@
     "beds": 3,
     "people": 4,
     "cost": 178,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-07-05",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7231a900e185bcf624b",
@@ -835,9 +973,11 @@
     "beds": 3,
     "people": 4,
     "cost": 254,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-10-23",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723b9b3861953c86898",
@@ -847,9 +987,11 @@
     "beds": 1,
     "people": 2,
     "cost": 324,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-05-31",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7232ed4d42dd76ef462",
@@ -859,9 +1001,11 @@
     "beds": 4,
     "people": 5,
     "cost": 292,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-11-23",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7235d091e6031b31797",
@@ -871,9 +1015,11 @@
     "beds": 4,
     "people": 5,
     "cost": 328,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-10-11",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72393f54a0c0e92e712",
@@ -883,9 +1029,11 @@
     "beds": 3,
     "people": 4,
     "cost": 204,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-11-08",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723b8b3bcb342df01c8",
@@ -895,9 +1043,11 @@
     "beds": 1,
     "people": 2,
     "cost": 276,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-03-08",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723e8f1b6dfa4f28d69",
@@ -907,9 +1057,11 @@
     "beds": 1,
     "people": 2,
     "cost": 348,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2019-09-11",
-    "bookinglength": 2
+    "bookinglength": 2,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723cc6a3eef4b0f0374",
@@ -919,9 +1071,11 @@
     "beds": 1,
     "people": 2,
     "cost": 226,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-03-04",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723f70636ec9f124a7b",
@@ -931,9 +1085,11 @@
     "beds": 4,
     "people": 5,
     "cost": 146,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-05-18",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723ae2d1ca102468086",
@@ -943,9 +1099,11 @@
     "beds": 4,
     "people": 5,
     "cost": 150,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2019-10-09",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72385f8691e4b9b8b28",
@@ -955,9 +1113,11 @@
     "beds": 1,
     "people": 2,
     "cost": 240,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2021-01-20",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723737db712e623c4ba",
@@ -967,9 +1127,11 @@
     "beds": 4,
     "people": 5,
     "cost": 322,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-05-05",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7239f100de6f539ef3b",
@@ -979,9 +1141,11 @@
     "beds": 4,
     "people": 5,
     "cost": 188,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2021-01-20",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723210a450a96a10d37",
@@ -991,9 +1155,11 @@
     "beds": 3,
     "people": 4,
     "cost": 274,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-08-31",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72381d55855004f9ed3",
@@ -1003,9 +1169,11 @@
     "beds": 4,
     "people": 5,
     "cost": 176,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-06-09",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723e3f19866769dd5a3",
@@ -1015,9 +1183,11 @@
     "beds": 4,
     "people": 5,
     "cost": 296,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2019-11-11",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723db91aa4e823e0eb4",
@@ -1027,9 +1197,11 @@
     "beds": 4,
     "people": 5,
     "cost": 274,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-10-01",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7238c7c26f9fe1a1c7a",
@@ -1039,9 +1211,11 @@
     "beds": 2,
     "people": 3,
     "cost": 322,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-08-04",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723760c98aa876e09f5",
@@ -1051,9 +1225,11 @@
     "beds": 4,
     "people": 5,
     "cost": 224,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-12-03",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723663c237451834c11",
@@ -1063,9 +1239,11 @@
     "beds": 4,
     "people": 5,
     "cost": 316,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-11-26",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72317193bc13b9a69fd",
@@ -1075,9 +1253,11 @@
     "beds": 1,
     "people": 2,
     "cost": 182,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2019-11-15",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7233bf48bdb2ceeb299",
@@ -1087,9 +1267,11 @@
     "beds": 2,
     "people": 3,
     "cost": 240,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-06-29",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723aedbca6b40f8000e",
@@ -1099,9 +1281,11 @@
     "beds": 3,
     "people": 4,
     "cost": 256,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2020-11-18",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7235f39f0ac63118f40",
@@ -1111,9 +1295,11 @@
     "beds": 4,
     "people": 5,
     "cost": 190,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-08-03",
-    "bookinglength": 4
+    "bookinglength": 4,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72389f1ea98f4e26836",
@@ -1123,9 +1309,11 @@
     "beds": 3,
     "people": 4,
     "cost": 270,
-    "checkin": 12,
+    "checkinTime": 12,
     "bookingstart": "2021-01-28",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72305229f0b985e8b5c",
@@ -1135,9 +1323,11 @@
     "beds": 3,
     "people": 4,
     "cost": 318,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-09-14",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e7235126e3d0749be5a2",
@@ -1147,9 +1337,11 @@
     "beds": 2,
     "people": 3,
     "cost": 316,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-08-02",
-    "bookinglength": 5
+    "bookinglength": 5,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72303eefa832fc47677",
@@ -1159,9 +1351,11 @@
     "beds": 2,
     "people": 3,
     "cost": 208,
-    "checkin": 13,
+    "checkinTime": 13,
     "bookingstart": "2020-11-22",
-    "bookinglength": 1
+    "bookinglength": 1,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723835962e3198d9f90",
@@ -1171,9 +1365,11 @@
     "beds": 2,
     "people": 3,
     "cost": 206,
-    "checkin": 14,
+    "checkinTime": 14,
     "bookingstart": "2020-06-08",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e723b6d9d9a747ecfbbd",
@@ -1183,9 +1379,11 @@
     "beds": 3,
     "people": 4,
     "cost": 274,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-10-10",
-    "bookinglength": 3
+    "bookinglength": 3,
+    "img": "https://loremflickr.com/296/283/hotel",
+    "checkoutTime": 10
   },
   {
     "_id": "5d31e72363b1f32da1ac43ed",
@@ -1195,7 +1393,7 @@
     "beds": 4,
     "people": 5,
     "cost": 244,
-    "checkin": 15,
+    "checkinTime": 15,
     "bookingstart": "2020-07-31",
     "bookinglength": 1
   }
